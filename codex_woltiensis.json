@@ -21,7 +21,7 @@
     "id": 4,
     "name": "Lied van geen taal",
     "url": "https://i.imgur.com/CRYxoH1.png",
-    "comments" : "M: La chanson du Roi Albert"
+    "comments" : ""
   },
   {
     "id": 5,
@@ -45,6 +45,12 @@
     "id": 8,
     "name": "Tsjechisch drinklied",
     "url": "https://i.imgur.com/t5jGC4n.jpg",
+    "comments" : ""
+  },
+  {
+    "id": 9,
+    "name": "Le seumeur",
+    "url": "https://i.imgur.com/9mTsyL1.jpg",
     "comments" : ""
   }
 ]
