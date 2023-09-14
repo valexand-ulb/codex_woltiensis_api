@@ -22,5 +22,29 @@
     "name": "Lied van geen taal",
     "url": "https://i.imgur.com/CRYxoH1.png",
     "comments" : "M: La chanson du Roi Albert"
+  },
+  {
+    "id": 5,
+    "name": "Lied van de brusselse geus & kbs kreet",
+    "url": "https://i.imgur.com/TYSw4Qi.png",
+    "comments" : "Vrijzinnige Kring der Brusselse en Brabantse Studenten aan de VUB"
+  },
+  {
+    "id": 6,
+    "name": "Gaudeamus Igitur",
+    "url": "https://i.imgur.com/5nsXjZi.jpg",
+    "comments" : ""
+  },
+  {
+    "id": 7,
+    "name": "La marche des étudiants",
+    "url": "https://i.imgur.com/FnhyNkV.jpg",
+    "comments" : ""
+  },
+  {
+    "id": 8,
+    "name": "Tsjechisch drinklied",
+    "url": "https://i.imgur.com/t5jGC4n.jpg",
+    "comments" : ""
   }
 ]
