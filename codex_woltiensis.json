@@ -56,13 +56,13 @@
   {
     "id": 10,
     "name": "Oude Roldersklacht",
-    "url": "https://i.imgur.com/CRYxoH1.png",
+    "url": "https://i.imgur.com/Lw8Y5PJ.jpg",
     "comments" : ""
   },
   {
     "id": 11,
     "name": "An de oevers van de zenne",
-    "url": "https://i.imgur.com/CRYxoH1.png",
+    "url": "https://i.imgur.com/wR3Z90p.jpg",
     "comments" : ""
   },
   {
@@ -81,6 +81,18 @@
     "id": 14,
     "name": "A la place Bara",
     "url": "https://i.imgur.com/EYj11RO.jpg",
+    "comments" : ""
+  },
+  {
+    "id": 15,
+    "name": "Allez vous faire bronzer",
+    "url": "https://i.imgur.com/Ij7RjaX.jpg",
+    "comments" : ""
+  },
+  {
+    "id": 16,
+    "name": "Alors on zwanze",
+    "url": "https://i.imgur.com/kVv2Idw.jpg",
     "comments" : ""
   }
 ]
