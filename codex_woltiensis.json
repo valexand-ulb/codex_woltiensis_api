@@ -94,5 +94,17 @@
     "name": "Alors on zwanze",
     "url": "https://i.imgur.com/kVv2Idw.jpg",
     "comments" : ""
+  },
+  {
+    "id": 17,
+    "name": "Anderlecht Champion (fr)",
+    "url": "https://i.imgur.com/R1MzG9T.jpg",
+    "comments": "Franse versie"
+  },
+  {
+    "id": 18,
+    "name": "Anderlecht Champion (nl)",
+    "url": "https://i.imgur.com/fCFQWTh.jpg",
+    "comments": "Version flamande"
   }
 ]
