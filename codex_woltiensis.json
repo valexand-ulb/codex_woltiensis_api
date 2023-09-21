@@ -124,5 +124,35 @@
     "name": "Au vieux marché",
     "url": "https://i.imgur.com/gD9YXIe.jpg",
     "comments": "Jef Bloemkuul"
+  },
+  {
+    "id": 22,
+    "name": "Bal van karnaval",
+    "url": "https://i.imgur.com/KVdTCeH.jpg",
+    "comments": "Remy Ray"
+  },
+  {
+    "id": 23,
+    "name": "De beeren van Brussel",
+    "url": "https://i.imgur.com/lWgjwW9.jpg",
+    "comments": ""
+  },
+  {
+    "id": 24,
+    "name": "La bonne bière Bruxelloise",
+    "url": "https://i.imgur.com/q9DU82m.jpg",
+    "comments": "Reprise par l'ordre du Faro"
+  },
+  {
+    "id": 25,
+    "name": "La bonne du curé",
+    "url": "https://i.imgur.com/HsV5cgh.jpg",
+    "comments": "Annie Cordy"
+  },
+  {
+    "id": 26,
+    "name": "Adje-Bruxelles",
+    "url": "https://i.imgur.com/SxsvIWI.jpg",
+    "comments": "Dessin van onze Loerik adoré"
   }
 ]
