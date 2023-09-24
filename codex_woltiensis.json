@@ -220,5 +220,29 @@
         "name": "La chanson de Madame Chapeau",
         "url": "https://i.imgur.com/27wXG2t.jpg",
         "comments": ""
+    },
+    {
+        "id": 38,
+        "name": "La chanson du Roi Albert",
+        "url": "https://i.imgur.com/lAkPSfz.jpg",
+        "comments": ""
+    },
+    {
+        "id": 39,
+        "name": "Dirk Frimout",
+        "url": "https://i.imgur.com/FfqzKoi.jpg",
+        "comments": "Les snuls"
+    },
+    {
+        "id": 40,
+        "name": "Disco Rolling",
+        "url": "https://i.imgur.com/xrg2LuY.jpg",
+        "comments": ""
+    },
+    {
+        "id": 41,
+        "name": "’t Es een gruut waaif mè keute bene",
+        "url": "https://i.imgur.com/rFtKNJo.jpg",
+        "comments": ""
     }
 ]
