@@ -478,5 +478,47 @@
         "name": "Roger",
         "url": "https://i.imgur.com/YRdeZMP.jpg",
         "comments": "Debilius profondius"
+    },
+    {
+        "id": 81,
+        "name": "Rue Zerezo",
+        "url": "https://i.imgur.com/gst4RrG.jpg",
+        "comments": "Moustachke"
+    },
+    {
+        "id": 82,
+        "name": "Rwdm (fr)",
+        "url": "https://i.imgur.com/bKsZr6T.png",
+        "comments": ""
+    },
+    {
+        "id": 83,
+        "name": "Rwdm (nl)",
+        "url": "https://i.imgur.com/bKsZr6T.png",
+        "comments": ""
+    },
+    {
+        "id": 84,
+        "name": "Le tango du Congo",
+        "url": "https://i.imgur.com/rn68YcX.jpg",
+        "comments": "Grand Jojo"
+    },
+    {
+        "id": 85,
+        "name": "Den Tango van de Congo",
+        "url": "https://i.imgur.com/rn68YcX.jpg",
+        "comments": ""
+    },
+    {
+        "id": 86,
+        "name": "Toen ik in Brussels kwam",
+        "url": "https://i.imgur.com/AwvkMZ0.jpg",
+        "comments": ""
+    },
+    {
+        "id": 87,
+        "name": "La tour de Londres",
+        "url": "https://i.imgur.com/s007Ksx.jpg",
+        "comments": ""
     }
 ]
