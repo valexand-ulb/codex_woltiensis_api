@@ -466,5 +466,17 @@
         "name": "Pieter Breughel in Brussel",
         "url": "https://i.imgur.com/ZKRPNd3.jpg",
         "comments": "Jef Elbers"
+    },
+    {
+        "id": 79,
+        "name": "Pinne Mouchke",
+        "url": "https://i.imgur.com/0RaVCTo.jpg",
+        "comments": "Jef van Maria"
+    },
+    {
+        "id": 80,
+        "name": "Roger",
+        "url": "https://i.imgur.com/YRdeZMP.jpg",
+        "comments": "Debilius profondius"
     }
 ]
