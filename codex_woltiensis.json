@@ -386,7 +386,7 @@
     {
         "id": 65,
         "name": "Manneken-Pis",
-        "url": "https://i.imgur.com/3aHqUIR.jpg",
+        "url": "https://i.imgur.com/Yq8vvvi.jpg",
         "comments": "Maurice Chevalier"
     },
     {
@@ -400,5 +400,59 @@
         "name": "Recette du pottekeis",
         "url": "https://i.imgur.com/9C7d9sN.jpg",
         "comments": ""
+    },
+    {
+        "id": 68,
+        "name": "Maroliaans volkslied",
+        "url": "https://i.imgur.com/8gjlbL9.jpg",
+        "comments": "M: La Marseillaise"
+    },
+    {
+        "id": 69,
+        "name": "Medley #1",
+        "url": "https://i.imgur.com/QcvNHVs.jpg",
+        "comments": ""
+    },
+    {
+        "id": 70,
+        "name": "Mexico",
+        "url": "https://i.imgur.com/qn8YSds.jpg",
+        "comments": "Lange Jojo - Vloms versie"
+    },
+    {
+        "id": 71,
+        "name": "Mexico",
+        "url": "https://i.imgur.com/CIhTd3f.jpg",
+        "comments": "Grand Jojo - version francaise"
+    },
+    {
+        "id": 72,
+        "name": "De minse van de Vossestroet",
+        "url": "https://i.imgur.com/5146ShX.jpg",
+        "comments": "Crejateef Complot"
+    },
+    {
+        "id": 73,
+        "name": "Het moot mo zoe goo ni zaain",
+        "url": "https://i.imgur.com/PVjneXl.png",
+        "comments": ""
+    },
+    {
+        "id": 74,
+        "name": "Jefken es getrouwd",
+        "url": "https://i.imgur.com/0RaVCTo.jpg",
+        "comments": "Jef van Maria"
+    },
+    {
+        "id": 75,
+        "name": "On a soif",
+        "url": "https://i.imgur.com/07Nw59g.jpg",
+        "comments": "Grand Jojo (Ah bon ?!)"
+    },
+    {
+        "id": 76,
+        "name": "Op maain mansarde",
+        "url": "https://i.imgur.com/ksxeabn.jpg",
+        "comments": "Jef Elbers"
     }
 ]
